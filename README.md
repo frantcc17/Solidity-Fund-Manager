@@ -1,10 +1,4 @@
- <meta property="og:image" content="https://i.imgur.com/ABC123.png">
-<meta property="og:title" content="Gestor de Fondos en Solidity">
-<meta property="og:description" content="Sistema seguro para ONGs usando blockchain">
-
-# 🚀 SolidityFundManager   Gestión descentralizada de fondos para ONGs 
-![Banner](https://i.imgur.com/ABC123.png)
-
+### 🚀 SolidityFundManager   Gestión descentralizada de fondos para ONGs 
 *Licencia: LGPL-3.0*  
 
 Automatiza el registro de programas benéficos y transferencias seguras de fondos mediante contratos inteligentes en Ethereum.  
