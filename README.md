@@ -7,7 +7,7 @@ Automatiza el registro de programas benéficos y transferencias seguras de fondo
 ---
 
 ### 📝 Descripción general  
-NGO-FundHub es una solución blockchain para administrar programas de financiación de ONGs con transparencia y seguridad. Permite:  
+Solidity Fund Manager es una solución blockchain para administrar programas de financiación de ONGs con transparencia y seguridad. Permite:  
 
 📋 **Registrar programas** con nombre, patrocinador y monto específico.  
 💸 **Transferir fondos** directamente a un contrato secundario auditado.  
