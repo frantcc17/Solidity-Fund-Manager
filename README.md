@@ -72,4 +72,4 @@ NGO-FundHub es una solución blockchain para administrar programas de financiaci
 
 ### 📄 Licencia  
 ```solidity
-// SPD
+// SPDX-License-Identifier: LGPL-3.0-only
