@@ -1,4 +1,10 @@
-# 🚀 SolidityFundManager   Gestión descentralizada de fondos para ONGs 
+<meta property="og:image" content="https://i.imgur.com/abc123.png">
+<meta property="og:title" content="SolidityFund Manager">
+<meta property="og:description" content="Gestión descentralizada de fondos para ONGs">
+
+# 🚀 SolidityFund Manager  
+![Banner](https://i.imgur.com/abc123.png)
+
 *Licencia: LGPL-3.0*  
 
 Automatiza el registro de programas benéficos y transferencias seguras de fondos mediante contratos inteligentes en Ethereum.  
